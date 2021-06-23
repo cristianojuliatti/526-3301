@@ -1,0 +1,153 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Capela de Manchester - 526-3301
+
+### Title
+tour.name = Manchester
+
+## Skin
+
+### Button
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = UNIDADE - INFO
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = INFO
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = PANORAMA LIST
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = PANORAMAS
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52.label = FM RESPONSAVEL
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = FM RESPONS.
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = SITEPLAN
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = SITEPLAN
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4.label = FOTOS
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4_mobile.label = FOTOS
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = LOCALIZAÇAO
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = LOCALIZAÇÃO
+Button_221B5648_0C06_E5FD_4198_40C786948FF0.label = lorem ipsum
+Button_221B5648_0C06_E5FD_4198_40C786948FF0_mobile.label = lorem ipsum
+
+### Multiline Text
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.76vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7.3224043715847vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.32vh;font-family:'Bebas Neue Bold';">FM JUIZ DE FORA</SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.590163934426229vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:4.59vmin;font-family:'Bebas Neue Bold';">CARLOS SILVA</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.0601092896174857vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.06vmin;font-family:'Bebas Neue Bold';">FM JUIZ DE FORA</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.51vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.5136612021857916vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.51vmin;font-family:'Bebas Neue Bold';">CELULAR FM: (32) 98513-3988</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.5136612021857916vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.51vmin;font-family:'Bebas Neue Bold';">TELEFONE ESCRITORIO: (32) 3025-3472</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.5136612021857916vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.51vmin;font-family:'Bebas Neue Bold';">SILVACAB@CHURCHOFJESUSCHRIST.ORG</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.51vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.51vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.51vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.51vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.51vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.51vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.5136612021857916vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.51vmin;">Fotos tiradas em: mar/2021</SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.049999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:10.05vmin;font-family:'Bebas Neue Bold';">carlos silva</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.230000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Bebas Neue Bold';">fm juiz de fora</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.28vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.59vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">celular fm: (32) 98513-3988</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.59vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">telefone escritório: (32) 3025-3472</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.59vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">silvacab@churchofjesuschrist.org</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.759999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.67vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">locaLIDADE</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.39vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">RUA RAFAEL ZACARIAS, 119, DEMOCRATA, juiz de fora-mg</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;">A dedicação da capela foi em 01/06/1985.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;">Responsabilidade do FM Juiz de Fora.</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.049999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.05vmin;font-family:'Bebas Neue Bold';">locaLIZAÇÃO</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.230000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">RUA JOSÉ MÁXIMO RIBEIRO, 26, COLETY</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.230000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">MURIAÉ-MG</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">A nova locação foi entregue em 28 de Outubro de 2020, recebida pelo Presidente do Distrito e da Missão.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Obra realizada pelo PM Oto Moura.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Responsabilidade do FM Juiz de Fora</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:8.524590163934421vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.52vmin;font-family:'Bebas Neue Bold';">ALA MANCHESTER</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:3.060109289617483vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.06vmin;font-family:'Bebas Neue Bold';">RUA RAFAEL ZACARIAS, 119, DEMOCRATA, JUIZ DE FORA-mg</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.8251366120218573vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.83vmin;font-family:'Bebas Neue Bold';">________________________________</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:6.67vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">BISPO ANDERSON SOUZA</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:4.480874316939889vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:4.48vmin;font-family:'Bebas Neue Bold';">ALA MANCHESTER</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:4.590163934426228vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:4.59vmin;font-family:'Bebas Neue Bold';">ESTACA JUIZ DE FORA</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.39vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.39vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">dados de contato:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.3000000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.3vmin;font-family:'Bebas Neue Bold';"><B>Celular: (32) *****-6385</B></SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:10vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10vmin;font-family:'Bebas Neue Bold';">Bispo rafael galhano</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:6.111111111111111vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:6.11vmin;font-family:'Bebas Neue Bold';">ala bairu</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:6.111111111111111vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:6.11vmin;font-family:'Bebas Neue Bold';">estaca juiz de fora</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6.11vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.230000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">DADOS DE CONTATO:</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.8888888888888857vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vmin;font-family:'Bebas Neue Bold';"><B>Celular: (32) *****-7411</B></SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">fotos aéreas:</SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.26vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.26vh;font-family:'Bebas Neue Bold';">siteplan:</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.980000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.98vmin;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_5FB4080E_650D_8C25_41D1_1E48AFF08765.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,0.6);text-align:center;font-size:2.41254523522316vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.41vw;font-family:'Bebas Neue Bold';"><B>MANCHESTER</B></SPAN></SPAN></DIV></div>
+HTMLText_665A70D1_7463_F253_41B8_A7B8050EB956.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,0.6);text-align:center;font-size:3.749999999999999vmax;"><SPAN STYLE="display:inline-block; letter-spacing:0vmax; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.75vmax;font-family:'Bebas Neue Bold';"><B>MANCHESTER</B></SPAN></SPAN></DIV></div>
+HTMLText_D24F3212_CC67_09CB_41DD_CF4498C2E2AA_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.26vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.26vh;font-family:'Bebas Neue Bold';">fotos aereas:</SPAN></SPAN></DIV></div>
+HTMLText_D37E032F_CC65_0FD9_41DA_B3AFF4109A03.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">SITEPLAN:</SPAN></SPAN></DIV></div>
+
+### Label
+Label_0DD14F09_1744_0507_41AA_D8475423214A.text = church view
+Label_0DD14F09_1744_0507_41AA_D8475423214A_mobile.text = CHURCH VIEW
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2.text = FM JUIZ DE FORA - REGIÃO CENTRAL
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2_mobile.text = FM JUIZ DE FORA - REGIÃO CENTRAL
+
+### Tooltip
+HTMLText_5FB4080E_650D_8C25_41D1_1E48AFF08765.toolTip = Unidade
+
+## Media
+
+### Title
+album_E9052F94_FC58_2732_41E4_E7994FBF94FC.label = Fotos Aéreas
+album_E9052F94_FC58_2732_41E4_E7994FBF94FC_0.label = DJI_0155
+album_E9052F94_FC58_2732_41E4_E7994FBF94FC_1.label = DJI_0156
+album_E9052F94_FC58_2732_41E4_E7994FBF94FC_2.label = DJI_0157
+album_E9052F94_FC58_2732_41E4_E7994FBF94FC_3.label = DJI_0158
+album_E9052F94_FC58_2732_41E4_E7994FBF94FC_4.label = DJI_0159
+album_E9052F94_FC58_2732_41E4_E7994FBF94FC_5.label = DJI_0160
+album_E9052F94_FC58_2732_41E4_E7994FBF94FC_6.label = DJI_0162
+map_963714F4_84C2_7CBF_41CF_38121A9CABCB.label = SitePlan
+panorama_89ABBB6F_84C2_F5AA_41DE_2A6E9DAEDB7C.label = Sala 1
+panorama_8E105427_84C6_335A_41B3_9BEDE7F11AD8.label = Salão Sacramental 1
+panorama_8E105B53_84C6_75FA_41C8_F758F880D3C0.label = Salão Sacramental 3
+panorama_8E10621F_84C6_576A_41BE_5451C55C31C2.label = PNE
+panorama_8E106291_84C2_3776_41D4_4E8E3C6108B8.label = Lateral 3
+panorama_8E107344_84C2_35DE_41DB_C7C31F377640.label = Lateral 9
+panorama_8E107BFF_84C6_34AA_41CD_BDDB7742B54C.label = Sala 6
+panorama_8E108916_84C2_757A_41DC_D8D070E77D81.label = Lateral 5
+panorama_8E108A7E_84C2_D7AA_41D5_C006FD3D341A.label = Lateral 7
+panorama_8E10979A_84C6_FD6A_41BE_0D82C4B791EF.label = Salão Sacramental 6
+panorama_8E109A44_84C6_57DE_41DA_FDA4CE6A55CD.label = Quadra 2
+panorama_8E109D42_84C6_CDDA_41C7_C0D2512BC308.label = Salão Sacramental 7
+panorama_8E109D9D_84C6_CD6E_41DB_7DA11EAD2A6E.label = Quadra 3
+panorama_8E10A1E5_84C6_F4DE_41B3_C76957CF1C04.label = Sala 2
+panorama_8E10A2FE_84C2_34AA_41C0_E3C293972B5A.label = Lateral 6
+panorama_8E10A715_84C6_5D7E_41B4_6E5F99A2D946.label = Salão Sacramental 2
+panorama_8E10ABC1_84C2_34D6_41C7_D5A5FFF59FBC.label = Entrada 3
+panorama_8E10AFE1_84C2_CCD6_41C6_EB7CC631B247.label = Exterior 2
+panorama_8E10BA20_84CE_3756_41C8_A2FC8CEF57CE.label = Corredor 1
+panorama_8E10D09B_84CE_536A_41C0_7022F5646B97.label = Corredor 3
+panorama_8E10D4E0_84C2_5CD6_41BA_ABB5F6CF25FC.label = Lateral 4
+panorama_8E10E434_84C6_D3BE_41B8_53FD646278F6.label = Salão Sacramental 5
+panorama_8E10E782_84C2_5D5A_41DC_E03A45E18939.label = Entrada 5
+panorama_8E10F551_84C6_7DF6_41A1_4F56603036F7.label = Quadra 1
+panorama_8E10FF3B_84C6_4DAA_41D4_22B55826CDFF.label = Salão Sacramental 4
+panorama_8E11013F_84CF_D5AA_41B3_DF0A8EA7C6E0.label = Banheiros Masculino 4
+panorama_8E1113B3_84CE_74BA_41BA_D8A147A5A440.label = Banheiros Masculino 2
+panorama_8E111780_84CF_DD56_41DD_DED70A545A02.label = Copa
+panorama_8E111FAE_84C2_4CAA_4192_373D0FEF282D.label = Entrada 4
+panorama_8E1124D2_84CF_FCFA_41D8_172CBED4341D.label = Bispado
+panorama_8E1136A0_84CE_FF56_41DD_6950B070F83F.label = Banheiros Feminino 3
+panorama_8E1148F6_84C2_D4BA_41BD_97EDD557DB58.label = Exterior 3
+panorama_8E114BC1_84C2_34D6_41C6_149FB98061E2.label = Exterior 1
+panorama_8E115952_84C6_D5FA_41DE_8C63A56E43A8.label = Sala 3 e 4
+panorama_8E11693C_84C2_35AE_41BC_2D993ED61CC2.label = Fundos 3
+panorama_8E117FF3_84C3_CCBA_41D9_7CAFD72A3AEE.label = Lateral 2
+panorama_8E11801A_84C7_D36A_41C0_C979E1D797ED.label = Salão Cultural 3
+panorama_8E118449_84C2_53D6_41BA_AB7C714BEFDA.label = Fundos 2
+panorama_8E118D05_84C7_CD5E_41CA_82F23526BA05.label = Salão Cultural 2
+panorama_8E118DD4_84C2_4CFF_41D8_07D28CD59558.label = Exterior 4
+panorama_8E11A3A0_84C6_5556_41CC_E4315B0D6D2B.label = Sala 8
+panorama_8E11A858_84C6_33F6_41DA_187105A04FE2.label = Salão Cultural 1
+panorama_8E11ACFC_84C3_CCAE_41C6_43AB68FBFD33.label = Lateral 1
+panorama_8E11CB51_84CE_D5F6_41E0_466CE98A5A3A.label = Banheiros Feminino 4
+panorama_8E11CC35_84CE_53BE_41DA_A7B0EF9BE824.label = Banheiros Masculino 3
+panorama_8E11CF04_84C6_4D5E_41C7_78F63C46A0F6.label = Sala 7
+panorama_8E11D1C3_84C2_74DA_41C0_47959DD6CF0C.label = Fundos 1
+panorama_8E11EF0C_84CE_4D6E_41C8_83AF62238E3D.label = Banheiros Masculino 1
+panorama_8E137EF3_84C5_CCBA_41C0_246A521E7B4E.label = Pia Batismal 3
+panorama_8E137F64_84C2_CDDE_41B7_B30D5AD80B9E.label = Lateral 8
+panorama_8E13A39C_84C2_556E_41C6_99ACE2C828B5.label = Palco 2
+panorama_8E13B748_84C5_FDD6_41BD_D24230E42D7F.label = Pia Batismal 2
+panorama_8E13BE0E_84C5_CF6A_41C8_CB4D1C6EFFF7.label = Pia Batismal 1
+panorama_8E13C78D_84C2_5D6E_41E0_52C4A39D7426.label = Palco 1
+panorama_8E17A183_84C6_555A_41DC_8DC76A6F2313.label = Secretaria
+panorama_8E1F272E_84CE_FDAB_4194_FD44EA6532D9.label = Corredor 6
+panorama_8E1F3DAC_84CE_4CAE_41CB_802064FB5E15.label = Corredor 2
+panorama_8E1F4DF0_84CE_CCB6_41D1_75B0CEE36F67.label = Corredor 7
+panorama_8E1F54AB_84CE_DCAA_4169_F30E766363F8.label = Corredor 5
+panorama_8E1F58DA_84CE_34EA_41A0_FA437CEE9FEB.label = Corredor 10
+panorama_8E1F6232_84CE_37BA_41BC_CD8B0F676C92.label = Corredor 4
+panorama_8E1FB259_84CE_D7F6_41BA_50C22D2B88AA.label = Banheiros Feminino 2
+panorama_8E1FDA8D_84CE_776E_41BF_BB24D411AFAD.label = Corredor 9
+panorama_8E1FE444_84CE_53DE_41BE_8D7F7807B9EF.label = Corredor 8
+panorama_8F15C0C6_84CE_54DB_41D2_C60972A0D420.label = Banheiros Feminino 1
+panorama_90F5A0E2_85E3_67E6_41C2_459D41B0B71C.label = Zeladoria
+panorama_E9D83EA6_FC38_291F_41DC_5D81F73C579E.label = Entrada 1
+panorama_EA6628CB_FCD8_2915_41B5_C8BB9472B7BA.label = Entrada 2
+
+## Popup
+
+### Body
+htmlText_99CCCB67_8546_35DA_41D5_8256A22B04F3.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Rua Rafael Zacarias, 119, Democrata, Juiz de Fora-MG - 36035-290</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Ala Manchester 309893 - Estaca Juiz de Fora</SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_9A61724A_855E_77EA_41DA_B93072E229F2.title = CAPELA DE MANCHESTER
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_85C8FE18_90AB_769A_41C4_219FEE5E710A.toolTip = Informação
+HotspotPanoramaOverlayArea_EE433C01_FC68_2915_41D2_C8F2FBE93A9B.toolTip = Vídeo Drone
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_ED9679F4_FC69_EAF2_41E4_C1EE8B36F1A8.url = //www.youtube.com/embed/3ELYnR-BSLM
